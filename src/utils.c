@@ -1,4 +1,4 @@
-#define _GNU_SOURCE  // Define this FIRST before any includes
+#define _GNU_SOURCE
 #include "utils.h"
 
 #include <sched.h>
