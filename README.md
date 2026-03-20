@@ -148,11 +148,13 @@ Example output:
 
 ## License
 
-MIT License — use at your own risk.
+MIT License 
+— use at your own risk.
 
 ---
 
 ## Acknowledgments
 
 Inspired by academic research on EM side-channels (e.g., Guri et al.)
+
 Uses libsodium (crypto), zlib (compression), RTL-SDR (receiver hardware)
