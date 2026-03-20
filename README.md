@@ -55,7 +55,7 @@ It leverages electromagnetic side-channel leakage produced by memory bus activit
 ## Build Instructions
 
 ```bash
-git clone https://github.com/yourusername/ramhammer.git
+git clone https://github.com/Mao-69/RAMHammer.git
 cd ramhammer
 
 mkdir build && cd build
